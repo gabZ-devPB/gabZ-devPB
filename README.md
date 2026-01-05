@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Olá, eu sou Gabriel Pereira Bezerra
 
-<!--
-**gabZ-devPB/gabZ-devPB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou apaixonado por tecnologia e dados. Gosto de entender problemas, analisar informações e transformar dados em conhecimento útil por meio da programação.
 
-Here are some ideas to get you started:
+Atualmente sou **técnico em Informática** e estou cursando **Análise e Desenvolvimento de Sistemas**, ambos pelo **Instituto Federal da Paraíba (IFPB) – Campus Cajazeiras**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho interesse especial em **Análise de Dados**, automação e desenvolvimento de software, sempre buscando evoluir minhas habilidades técnicas e meu raciocínio lógico.
+
+---
+
+## 🎓 Formação Acadêmica
+
+- **Técnico em Informática**  
+  Instituto Federal da Paraíba (IFPB) – Campus Cajazeiras
+
+- **Análise e Desenvolvimento de Sistemas** *(em andamento)*  
+  Instituto Federal da Paraíba (IFPB) – Campus Cajazeiras
+
+---
+
+## 🧠 Áreas de Interesse
+
+- Análise de Dados
+- Programação
+- Automação de tarefas
+- Tecnologia e inovação
+- Desenvolvimento de software
+
+---
+
+## 🛠️ Tecnologias e Linguagens
+
+- **Python** (análise de dados, automação)
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **React** *(em aprendizado)*
+- **C** *(em aprendizado)*
+
+---
+
+## 🚀 Objetivo
+
+Continuar evoluindo na área de tecnologia, aprofundando meus conhecimentos em **dados e programação**, desenvolvendo projetos práticos e adquirindo experiência para atuar profissionalmente na área.
+
+---
+
+📫 **GitHub:**  
+https://github.com/gabZ-devPB
