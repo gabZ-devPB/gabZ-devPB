@@ -25,6 +25,9 @@ Tenho interesse especial em **Análise de Dados**, automação e desenvolvimento
 - Automação de tarefas
 - Tecnologia e inovação
 - Desenvolvimento de software
+- Desenvolvimento de APIs
+- Desenvolvimento de Banco de dados
+- Trabalhos com Node.js e Next.js
 
 ---
 
@@ -34,8 +37,13 @@ Tenho interesse especial em **Análise de Dados**, automação e desenvolvimento
 - **HTML**
 - **CSS**
 - **JavaScript**
-- **React** *(em aprendizado)*
-- **C** *(em aprendizado)*
+- **React**
+- **Next.js**
+- **Node.js**
+- **SQL**
+- **Java**
+- **Spring Boot**
+- **C** 
 
 ---
 
